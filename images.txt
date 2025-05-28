@@ -1,3 +1,1 @@
 rabbtmq
-rocketmq
-mysql:8.0
